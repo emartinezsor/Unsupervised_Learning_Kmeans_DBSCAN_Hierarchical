@@ -31,5 +31,6 @@ uber_sample.csv
 A lo largo de esta práctica veremos como aplicar distintas técnicas no supervisadas así como algunas de sus aplicaciones reales:
 
 •	 Clustering con distintas estrategias: k-means y regla del codo, basadas en densidad (DBSCAN) y jerárquicas.
+
 •	 Ejemplo práctico: diseño de redes de transporte: clustering y análisis
 
