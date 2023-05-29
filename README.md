@@ -26,3 +26,10 @@ uber_sample.csv
 
 •	Conocer aplicaciones reales en las que se utilizan métodos no supervisados sobre conjuntos de datos no etiquetados.
 
+### Descripción de la Práctica
+
+A lo largo de esta práctica veremos como aplicar distintas técnicas no supervisadas así como algunas de sus aplicaciones reales:
+
+•	 Clustering con distintas estrategias: k-means y regla del codo, basadas en densidad (DBSCAN) y jerárquicas.
+•	 Ejemplo práctico: diseño de redes de transporte: clustering y análisis
+
